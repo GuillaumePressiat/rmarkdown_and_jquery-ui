@@ -1,0 +1,77 @@
+.authordate {
+  border-top:1px solid #5a92bd;
+  border-bottom:1px solid #5a92bd;
+  margin-bottom:30px;
+}
+
+img { max-width:100%; }
+
+.main-container {
+  margin-top:48pt;
+  color:#06062c;
+}
+
+h1 {
+  font-weight:700;
+}
+
+h2 {
+  color: #5a92bd;
+  font-weight:500;
+}
+
+h3 {
+  color: #5a92bd;
+  font-weight:400;
+}
+
+h4 {
+  color: #5a92bd;
+  font-weight:300;
+}
+
+.hdr {
+  position:fixed;
+  width:100%;
+  background:#5a92bd;
+  color:white;
+  font-weight:600;
+  font-size:14pt;
+  height:40pt;
+  padding:11px;
+  padding-right:20px;
+  top: 0;
+  z-index: 100;
+  text-align:right;
+}
+
+.hdr > a:link,
+.hdr > a:visited,
+.hdr > a:hover,
+.hdr > a:active {
+  color:white;
+  text-decoration: none;
+}
+
+.hdr > a:hover {
+  color:#BCD58D;
+}
+
+.ftr {
+  border-top:1px solid #5a92bd;
+  margin-top:30px;
+  text-align:center;
+  font-size:10px;
+}
+
+.ftr > a:link,
+.ftr > a:visited,
+.ftr > a:hover,
+.ftr > a:active {
+  color:#5a92bd;
+  text-decoration: none;
+}
+
+.ftr > a:hover {
+  color:#5a92bd;
+}
